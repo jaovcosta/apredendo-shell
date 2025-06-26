@@ -1,0 +1,13 @@
+# Arquivos de histórico do Shell
+.bash_history
+.zsh_history
+
+# Arquivos de sessão do Shell
+.bash_sessions/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários comuns
+*.tmp
+*~
